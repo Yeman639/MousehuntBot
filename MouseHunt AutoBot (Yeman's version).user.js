@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        MouseHunt AutoBot (Yeman's version)
+// @name        MouseHunt AutoBot (Yeman's version) - Github
 // @author      NobodyRandom, Hazado, Ooi Keng Siang, CnN, Yeman
 // @version    	2.8.0
 // @description Currently the most advanced script for automizing MouseHunt and MH BETA UI. Supports ALL new areas and FIREFOX. Revamped of original by Ooi + Enhanced Version by CnN and Yeman
