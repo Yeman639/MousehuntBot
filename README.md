@@ -1,11 +1,21 @@
 # MousehuntBot
 
+## Installation
+Install a script manager of your choice:
+* Tamper Monkey
+* Violent Monkey
+* Grease Monkey
+
+Install the script using the greasyfork link or accessing the raw source code.
+
 ## Features
 
 ### Auto Horn
 Sounds the hunter's horn every 15 minutes or with a delay.
 ### Auto Solve King's Reward
 Solves King's Rewards with an external script.
+
+https://greasyfork.org/en/scripts/13809-mh-auto-kr-solver
 ### Custom Area Scripts
 Custom scripts to change your trap setup, bait and charms depending on the situation.
 
